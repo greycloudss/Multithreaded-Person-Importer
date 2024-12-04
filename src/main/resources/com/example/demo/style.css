@@ -1,0 +1,22 @@
+#pane {
+    -fx-background-color: #3b3660;
+}
+#topBar {
+    -fx-background-color: #322e52;
+}
+
+#text0, #text, #text1 {
+    margin: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-color: white;
+}
+
+#Btn {
+    -fx-text-fill: white;
+    -fx-background-color: #393d64;
+    -fx-border-radius: 0;
+}
+#Btn:hover {
+    -fx-background-color: #3f3d54;
+}
